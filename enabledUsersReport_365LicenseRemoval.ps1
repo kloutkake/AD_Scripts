@@ -1,12 +1,8 @@
 <#
-Julian Purgahn
-JPurgahn@vtaig.com
-Berkshire Hathway Automotive 
-IT Helpdesk Technician 
-
 Purpose:
-	To find and create a list of users within <your location> that are enabled 
+	To find and create a list of users in AD within <your location> that are enabled 
 	and also find the users that have Microsoft 365 licenses (not inclusively). 
+ 	With the option to remove that license.
 #>
 
 # Import the AD module
